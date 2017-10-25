@@ -48,8 +48,8 @@ process.env.BABEL_ENV = TARGET;
 	},
 	plugins: [
    	new HtmlWebpackPlugin({
-   	title: 'React Project Template',
-   	template: 'template.html'
+   	title: 'CrowdFlower Assignment',
+   	template: 'index.html'
    	})
 	]
 };
